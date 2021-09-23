@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "fractional": "^1.0.0",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.9"
   }
 }
