@@ -134,9 +134,6 @@ class RecipeView extends View {
       </svg>
       <div class="recipe__quantity">${
         ing.quantity ? new Fraction(ing.quantity).toString() : ''
-        // ing.quantity
-        //   ? new Fraction(ing.quantity).simplify(0.00001).toFraction(true)
-        //   : '?'
       }
       </div>
       <div class="recipe__description">
