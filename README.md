@@ -4,9 +4,9 @@ This app was built with MVC in mind, API calls, data rendering, DOM manipulation
 
 It also allows you to search and access food recipes from an API, with an option to visit the recipes website, or bookmark that recipe to your favorites tab. You can also create your own recipe that will be saved to your favorites automatically and kept there thanks to local storage!
 
-![Screenshot 2022-01-23 at 23-25-08 forkify Search over 1,000,000 recipes](https://user-images.githubusercontent.com/82302032/150722005-25ad90ef-d542-42b1-b3b0-8391c90d7bc6.png)
-
 Deployment Page Netlify: https://forkify-shanis.netlify.app/
+
+![Screenshot 2022-01-23 at 23-25-08 forkify Search over 1,000,000 recipes](https://user-images.githubusercontent.com/82302032/150722005-25ad90ef-d542-42b1-b3b0-8391c90d7bc6.png)
 
 
 ### Built with
